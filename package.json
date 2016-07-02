@@ -1,0 +1,28 @@
+{
+  "name": "method-alias",
+  "version": "0.1.0",
+  "description": "Create a method alias without losing context",
+  "main": "method-alias.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phazelift/method-alias"
+  },
+  "dependencies" : {
+    "types.js"	: "latest"
+  },
+  "keywords": [
+    "context",
+    "this",
+    "self",
+    "instance"
+  ],
+  "author": "Dennis Raymondo van der Sluis <phazelift@gmail.com> (https://github.com/phazelift/)",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/phazelift/method-alias/issues"
+  },
+  "homepage": "https://github.com/phazelift/method-alias"
+}
