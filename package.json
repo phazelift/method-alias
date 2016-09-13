@@ -1,6 +1,6 @@
 {
   "name": "method-alias",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Create a method alias without losing context",
   "main": "method-alias.min.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "instance"
   ],
   "author": "Dennis Raymondo van der Sluis <phazelift@gmail.com> (https://github.com/phazelift/)",
-  "license": "GPL-3",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phazelift/method-alias/issues"
   },
